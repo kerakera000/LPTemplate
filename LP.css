@@ -1,0 +1,45 @@
+@media only screen and (max-width: 600px) {
+  .Line-img-title-box {
+    margin: 7vw 0 !important;
+  }
+  .Line-img-title {
+    font-size: 6vw !important;
+  }
+  .image-box {
+    height: 70vw !important;
+  }
+  .Line-img {
+    width: 70vw !important;
+  }
+  .line-text-box {
+    margin: 9vw 5vw !important;
+  }
+  .line-text {
+    font-size: 4vw !important;
+  }
+  .flavor-img-row {
+    height: 130vw !important;
+  }
+  .flavor-img {
+    height: 100% !important;
+  }
+  .flavor-col-box {
+    height: 50% !important;
+  }
+  .Explanation-box {
+    height: 150vw !important;
+  }
+  .Explanation-box-img {
+    height: 50% !important;
+  }
+  .Explanation-box-text {
+    height: 50% !important;
+  }
+  .QABox {
+    height: 100vw !important;
+  }
+  .GABox {
+    height: 100vw !important;
+  }
+}
+/*# sourceMappingURL=LP.css.map */
